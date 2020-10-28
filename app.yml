@@ -4,5 +4,5 @@ default_permissions:
   contents: write
   metadata: read
   pull_requests: read
-url: https://github.com/wolfeidau/release-drafter-serverless
+url: https://github.com/natalieb07/release-drafter
 public: true
